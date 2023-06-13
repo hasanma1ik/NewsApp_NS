@@ -72,4 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # NewsApp_NS
+<<<<<<< HEAD
 >>>>>>> 7b00416 (first commit)
+=======
+>>>>>>> 7b004169ed80df01e15b85f38a9ce1f538579154
